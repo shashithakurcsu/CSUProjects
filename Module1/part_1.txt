@@ -1,0 +1,18 @@
+Pseudo code for program to find the addition and subtraction of two numbers.
+Prompt the user to enter the first number
+Display "Enter the first number: "
+Input num1
+
+# Prompt the user to enter the second number
+Display "Enter the second number: "
+Input num2
+
+# Perform addition
+num_added = num1 + num2
+
+# Perform subtraction
+num_substracted = num1 - num2
+
+# Display the results
+Display "Addition Result: num1 + num2 = num_added
+Display "Subtraction Result: num1 - num2 = num_substracted
