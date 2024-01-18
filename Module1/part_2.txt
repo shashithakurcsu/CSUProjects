@@ -1,0 +1,18 @@
+Pseudo code for program to find the multiplication and division of two numbers.
+Prompt the user to enter the first number
+Display "Enter the first number: "
+Input num1
+
+# Prompt the user to enter the second number
+Display "Enter the second number: "
+Input num2
+
+# Perform multiplication
+num_added = num1 * num2
+
+# Perform division
+num_substracted = num1 / num2
+
+# Display the results
+Display "multiplication Result: num1 * num2 = num_multiplied
+Display "Subtraction Result: num1 / num2 = num_divided
