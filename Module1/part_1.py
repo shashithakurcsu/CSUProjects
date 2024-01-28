@@ -1,14 +1,14 @@
-# This is a Python program to find the addition and subtraction of two numbers.
-# Ask the user to input two numbers (num1 and num2).
-num1 = int(input("Enter the first number: "))
-num2 = int(input("Enter the second number: "))
-#Add them together to find the output. 
-num_added = num1 + num2
-#Subtract the two numbers to find the output.
-num_substracted = num1 - num2
+"""""
+caffeine_mg = float(input())
 
-# Display the results
-print(f"Addition result: {num1} + {num2} = {num_added}")
-print(f"Subtraction result: {num1} - {num2} = {num_substracted}")
+print(f"After 6 hours: {(caffeine_mg / 2) :.2f} mg")
+print(f"After 12 hours: {(caffeine_mg / 4) :.2f} mg")
+print(f"After 24 hours: {(caffeine_mg / 16) :.2f} mg")
 
-# End of program
+"""
+
+current_price = int(input())
+last_months_price = int(input())
+
+print(f"This house is ${current_price}.  The change is ${current_price - last_months_price} since last month.")
+print(f"The estimated monthly mortgage is ${(current_price * .051)/12 :.2f}")
