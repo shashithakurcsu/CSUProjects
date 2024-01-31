@@ -17,6 +17,3 @@ print(f"Original Food Charge: ${food_charge:.2f}")
 print(f"Tip ({tip_percentage}%): ${tip:.2f}")
 print(f"Sales Tax ({tax_percentage}%): ${tax:.2f}")
 print(f"Total Amount: ${total_amount:.2f}")
-
-# Display the results in right aligned
-# We will use string formatting
