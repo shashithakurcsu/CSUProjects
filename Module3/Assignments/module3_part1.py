@@ -1,4 +1,4 @@
-# Here are given tip and tax percenatage
+# Here are given tip and tax percentage
 tip_percentage = 18
 tax_percentage = 7
 
