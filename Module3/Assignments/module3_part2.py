@@ -1,5 +1,5 @@
 # Ask the user to enter the current time and the number of hours to wait
-current_time = int(input("Enter the current time (in hours, 24-hour format): "))
+current_time = int(input("Enter the current time (in hours, 24 hours clock): "))
 wait_hours = int(input("Enter the number of hours to wait for the alarm : "))
 
 # Calculate the time when the alarm will go off
