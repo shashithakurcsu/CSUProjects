@@ -33,6 +33,6 @@ def main():
 
     total_cost = (item1_price * item1_quantity) + (item2_price * item2_quantity)
     print(f"Total: ${total_cost}")
-    
+
 if __name__ == "__main__":
     main()
