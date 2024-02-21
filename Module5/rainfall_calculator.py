@@ -1,4 +1,4 @@
-# This is a program to claculate average rainfall in a given number of years based on user input
+# This is a program to claculate average rainfall in a given number of years based on user input.
 
 #Intialization of variables; usage outside the loop
 total_rainfall = 0
