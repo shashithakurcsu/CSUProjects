@@ -1,7 +1,7 @@
 # A program that asks the user to enter the number of books that they have purchased this month and then display the number of points awarded.
 #C Obtain user input for numbet of books
 
-num_books_purchased = int(input("Enter the number of books you have purchased this month: "))
+num_books_purchased = int(input("Enter the number of books you  purchased this month: "))
 
 # Initialize the awards point variable
 awards_point = 0
