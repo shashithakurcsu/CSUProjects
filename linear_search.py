@@ -1,14 +1,7 @@
 def linear_search(arr, target):
-    """
-    Perform a linear search on the given array for the target element.
-    
-    Parameters:
-    arr (list): The list in which to search for the target element.
-    target (any): The element to search for in the list.
-    
-    Returns:
-    int: The index of the target element if found, else -1.
-    """
+#Search for a target value in an array using linear search.
+    # Loop through the array
+
     for i in range(len(arr)):
         if arr[i] == target:
             return i
@@ -24,3 +17,4 @@ if __name__ == "__main__":
         print(f"Item '{target_item}' found at index {index}.")
     else:
         print(f"Item '{target_item}' not found in the database.")
+
